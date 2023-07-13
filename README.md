@@ -6,6 +6,7 @@ This project is a deep learning model that detects company logos from different 
 - Because of lack of invoices dataset , I made a syntetic dataset by putting logos in random sizes in random places in invoice-like documents.
 - Invoces-like dataset can be found here : [Dataset](https://drive.google.com/file/d/1mGMfBn-3JIlpNg9y7wdVY_6kN7U6LjmO/view?usp=sharing)
 - Trained model can be found here : [Model](https://drive.google.com/file/d/1H2i2pu-A_u-4Qb1g2vlhdBug9iFwr7jf/view?usp=sharing)
+- The model is trained on [Colab](https://colab.research.google.com/drive/1dPE31H8-3oNHf_qr7BU5b6Ge9pKkAz1m#scrollTo=ivC--L4UzLZX)
 - The model is trained using a dataset of company logos from different industries and regions. It uses a combination of convolutional neural networks (CNNs) and transfer learning , specifically , I used YOLOv8 to achieve high accuracy and robustness.
 - The system is designed to work with both scanned and digital invoices, and can be easily integrated into existing invoice processing pipelines.
 
