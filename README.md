@@ -1,8 +1,8 @@
-# Invoice-Logo-Detection
+## Invoice-Logo-Detection
 
     - This project is a deep learning model that detects company logos from different invoices.The model is designed to extract logos from scanned or digital invoices and classify them into different categories based on the company they represent. The model is trained to detect certain logos . You can find them in logos directory.
 
-# Description
+## Description
 
     Invoice Logo Detector is a machine learning-based solution that can help businesses automate their invoice processing workflows. By automatically detecting and extracting logos from invoices, the system can save time and reduce errors associated with manual data entry.
 
@@ -16,7 +16,7 @@
 
     The system is designed to work with both scanned and digital invoices, and can be easily integrated into existing invoice processing pipelines.
 
-Getting Started
+## Getting Started
 
 To use the Invoice Logo Detector, you'll need to follow these steps:
 
